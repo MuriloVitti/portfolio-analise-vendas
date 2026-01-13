@@ -43,13 +43,6 @@ Este projeto simula um cenário comum de trabalho de um analista de dados, onde 
 
 ---
 
-##  Próximos Passos
-- Criar views para análises recorrentes
-- Integrar os dados a uma ferramenta de BI (Power BI)
-- Expandir a análise para novos recortes, como produtos ou regiões
-
----
-
 ##  Autor
 Murilo Vitti  
 Estudante de Administração
