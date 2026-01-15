@@ -45,4 +45,17 @@ I used SQL to answer specific business questions about Amazon's pricing and cons
 
 ![Top Tier Products](images/question_3.png)
 
+## Q4: Financial Impact (Real Cash Savings)
+**Question:** Where does the customer save the most "real money" ?
+* **Finding:** While accessories have higher percentages, **Smart TVs** offer the highest average cash savings (over **15,000** in local currency).
+* **Insight:** High-ticket items drive the most significant financial impact for the consumer, even with smaller percentage discounts.
+![Financial Impact](images/question_4.png)
+
+### Q5: Loss Leaders vs. Essential Goods
+**Question:** How does Amazon use different products to drive traffic?
+* **Finding:** A USB-C adapter at **94% off** (Loss Leader) vs. a student notebook at only **2% off** (Essential).
+* **Insight:** This shows a clear strategy: use cheap gadgets as "hooks" to get people onto the site, knowing they will also buy essential items at full margin.
+
+![The Extremes](images/question_5.png)
+
 
