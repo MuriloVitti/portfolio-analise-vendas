@@ -25,5 +25,7 @@ During the import process, I identified and resolved critical issues to enable n
 I used SQL to answer specific business questions about Amazon's pricing and consumer behavior. Here are the findings:
 
 ### Q1: Top Categories by Discount
-**Question:** Which categories are the most aggressive in their pricing strategy?
+**Question:** Which categories are the most aggressive in their pricing strategy? 
+* **Finding:** Categories like "Cables & Accessories" and "Earpads" reach average discounts of **90%**.
+* **Insight:** This is a highly saturated market. Aggressive pricing is not just a choice, but a necessity to gain visibility in the "Accessories" search results.
 
