@@ -31,3 +31,18 @@ I used SQL to answer specific business questions about Amazon's pricing and cons
 
 ![Top Categories](images/question_01.png)
 
+### Q2: Quality vs. Price Perception
+**Question:** Do massive discounts lead to poor customer ratings?
+* **Finding:** High-discount products (>50%) maintain a **4.06 rating**, virtually identical to the store average of **4.10**.
+* **Insight:** Customers don't perceive "cheap" as "low quality" here. This proves that flash sales can move inventory without damaging the brand's reputation for quality.
+
+![Quality vs Price](images/question_02.png)
+
+## Q3: Top Tier Products
+**Question:** Which products have the best reputation and highest volume?
+* **Finding:** Electronic items like the "Swiffer Water Heater" and "Logitech Mice" lead with ratings of **4.6 - 4.8** and thousands of reviews.
+* **Insight:** These products represent the "safe bets" for consumers, combining high performance with massive social proof.
+
+![Top Tier Products](images/question_03.png)
+
+
