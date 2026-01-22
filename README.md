@@ -60,9 +60,10 @@ I used SQL to answer specific business questions about Amazon's pricing and cons
 
 > **Explore the code:** You can find the logic for these questions in [03_analysis_queries.sql](sql/03_analysis_queries.sql).
 
-##  Conclusion
-Through this SQL analysis, I identified a clear "Hook & Margin" strategy: Amazon uses extreme discounts on technical accessories as traffic drivers while maintaining steady margins on essential goods that customers buy regardless of price. 
-This project highlights my ability to translate complex database queries into actionable business intelligence, focusing on the real financial impact (nominal savings) rather than just looking at surface-level percentages. It demonstrates a full understanding of the data lifecycle, from deep cleaning to strategic insight.
+## Conclusion
+
+Through this SQL analysis, I identified a clear “Hook & Margin” strategy: Amazon leverages aggressive discounts on technical accessories as traffic drivers (loss leaders) to attract customers, while preserving stable margins on essential goods that consumers purchase regardless of price sensitivity.
+This project highlights my ability to translate complex SQL queries into insights that support business decisions, prioritizing real financial impact (nominal savings) rather than surface-level percentage discounts.
 
 ## Contact
 
